@@ -1,11 +1,10 @@
-## Hello, This is me, Markus
+# Hello, This is me, Markus
 
 I am a software developer who loves to learn and explore different fields of software development.
 
-## 🌐 Socials:
+# 📊 GitHub Stats:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/markus-piotrowski-980015254)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mackapacka15&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 # 💻 Tech Stack
 
 ## 🧠 Languages
@@ -88,6 +87,6 @@ I am a software developer who loves to learn and explore different fields of sof
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white)
 
-# 📊 GitHub Stats:
+## 🌐 Socials:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mackapacka15&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/markus-piotrowski-980015254)
