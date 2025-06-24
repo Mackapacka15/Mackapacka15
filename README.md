@@ -101,9 +101,7 @@ I'm a certified Microsoft Back-End Developer and currently pursuing additional c
 
 ## 🎓 Certifications
 
-- Microsoft Certified: Azure Developer Associate
-- Microsoft Certified: Azure Fundamentals
-- Microsoft Certified: Back-End Developer
+- [Microsoft Back-End Developer](https://coursera.org/share/160d8e6ed5864a4087441b0b9712f2c5)
 
 ---
 
