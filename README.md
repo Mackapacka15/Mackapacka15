@@ -114,4 +114,4 @@ I'm a certified Microsoft Back-End Developer and currently pursuing additional c
 
 ## 📬 Contact Me
 
-Feel free to reach out via [LinkedIn](https://linkedin.com/in/markus-piotrowski-980015254) or email me at your-email@example.com.
+Feel free to reach out via [LinkedIn](https://linkedin.com/in/markus-piotrowski-980015254) or email me at Markuspiotrowski@live.com.
